@@ -49,9 +49,6 @@ Hi all! 👋 I'm a beginner web developer, and I'm glad to welcome you to my por
 If you like my work, feel free to give it a ⭐ on GitHub!
 
 📫 **Contact me:**  
-📧 Email: [your email]  
-🔗 LinkedIn: [your profile]  
-📂 GitHub: [your GitHub]
-
-Happy Coding! 🚀
+📧 Email: [actekactek14@gmail.com]   
+📂 GitHub: [https://github.com/zen1th132]
 
