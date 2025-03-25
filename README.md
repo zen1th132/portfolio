@@ -39,7 +39,7 @@ Hi all! 👋 I'm a beginner web developer, and I'm glad to welcome you to my por
 
 ### 🚀Galactic Shield Web Game
 📌 A fun and interactive space shooter game.  
-🔗 [Play Now](https://zen1th132.github.io/galactic_shield/)  
+🔗 [Play Now](https://zen1th132.github.io/galactic_shield)  
 ![Galactic Shield](screenshots/galactic_shield.png)
 
 ---
