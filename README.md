@@ -25,14 +25,14 @@ Hi all! 👋 I'm a beginner web developer, and I'm glad to welcome you to my por
 
 ### 🌐 Personal Web Site
 📌 A showcase of my work and experience.  
-🔗 [Visit Project](https://zen1th132.github.io/portfolio/portfolio/portfolio)  
-![Personal Web Site](screenshots/personal_website.png)
+🔗 [Visit Project](https://zen1th132.github.io/portfolio/portfolio)  
+![Personal Web Site](screenshots/portfolio.png)
 
 ---
 
 ### 🐶 Pet Store
 📌 A simple online pet store website.  
-🔗 [Visit Project](https://zen1th132.github.io/portfolio/pet_store/pet_store)  
+🔗 [Visit Project](https://zen1th132.github.io/portfolio/pet_store)  
 ![Pet Store](screenshots/pet_store.png)
 
 ---
